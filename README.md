@@ -1,3 +1,4 @@
+init
 # Building an API using a Node.js and Express Middleware
 
 In this challenge, you build an API and write custom middleware that satisfies the requirements listed under the `Minimum Viable Product` section.
@@ -32,7 +33,7 @@ Follow these steps for completing your project.
 
 #### Custom Middleware Requirements
 
-- `logger()`
+- `logger()` [x]
   - `logger` logs to the console the following information about each request: request method, request url, and a timestamp
   - this middleware runs on every request made to the API
 
